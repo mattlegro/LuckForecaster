@@ -1,0 +1,10 @@
+{
+  "Name": "LuckForecaster",
+  "Author": "DK",
+  "Version": "1.0.0",
+  "Description": "Displays a daily fortune forecast.",
+  "UniqueID": "DK.LuckForecaster",
+  "EntryDll": "LuckForecaster.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
